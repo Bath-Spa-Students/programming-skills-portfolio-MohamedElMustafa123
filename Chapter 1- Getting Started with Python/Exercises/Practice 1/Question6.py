@@ -1,0 +1,21 @@
+#Personal identification, Take input from user and print it out. 10 parameters
+name = input("Enter your name: ")
+age = input("Enter your age: ")
+uni = input("Enter your univseristy's name: ")
+parent_name = input("Enter your parent name: ")
+year = input("Enter your year of study: ")
+asign = input("Enter how many assignments you have this week: ")
+hobby = input("What's your hobby: ")
+song = input("Enter a song you like: ")
+phone = input("Enter the phone you're using: ")
+print("Your name is " + name)
+print("Your age is " + age)
+print("Your university is " + uni)
+print("Your parent's name is " + parent_name)
+print("Your year of study is " + year)
+print("The number of assignments you have this week is " + asign)
+print("Your hobby is " + hobby)
+print("A song you like is " + song)
+print("The phone you're using is " + phone)
+
+
