@@ -1,0 +1,1 @@
+print("Neil Armstrong once said, \"That's one small step for a man, a giant leap for mankind\".")
