@@ -1,0 +1,1 @@
+names = ["Einstein", "Newton", "Copernicus", "Kepler"]
